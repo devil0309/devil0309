@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @devil0309
+- 👀 I’m interested in Artificial intelligence
+- 🌱 I’m currently learning c++ and HTML 
+- 💞️ I’m looking to collaborate on projects
+- 📫 You can connect with me on yahoo.
